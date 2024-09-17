@@ -1,4 +1,4 @@
-package com.example.httprequestswithretrofit.Model;
+package com.example.httprequestswithretrofit.model;
 
 public class Fruit {
 
